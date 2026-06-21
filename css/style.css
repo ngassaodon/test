@@ -1,3 +1,7 @@
+body {
+  background-color: blue;
+  color: white;
+}
 .img-block {
   overflow: hidden;
   width: 100%;
